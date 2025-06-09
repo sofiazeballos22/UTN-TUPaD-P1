@@ -64,7 +64,7 @@ print("Lista modificada:", animales)
 
 
 
- # Actividad 6 - Crear una lista del 10 al 30 con pasos de 5 y mostrar los dos primeros elementos
+# Actividad 6 - Crear una lista del 10 al 30 con pasos de 5 y mostrar los dos primeros elementos
 #--------------------------------------------------------------------------------------------------------------------------------
 
 numeros = list(range(10, 31, 5))
@@ -88,7 +88,7 @@ autos[2] = "coupe"
 print("Autos actualizados:", autos)
 
 
- 
+
 
 
 # Actividad 8 - Crear una lista vacía y agregarle el doble de (5, 10, 15) números como cadenas
