@@ -1,12 +1,12 @@
 # 🔍 Buscador de Productos con Tkinter
 
-Este proyecto desarrollado forma parte del trabajo práctico de Programación I en la UTN - TUPaD.  
+Este proyecto desarrollado en grupo, forma parte del trabajo práctico de Programación I en la UTN - TUPaD.  
 El objetivo es aplicar estructuras condicionales, listas, funciones y métodos en Python para crear una **interfaz gráfica que permita buscar productos por su nombre**.
 
 ---
 
 
-Link del vídeo en Drive: https://drive.google.com/file/d/1TPk9cfxWqoW3pEwxKXIa6oUM1xw8gn6i/view?usp=sharing
+Link de mi Drive: [https://drive.google.com/drive/folders/1j6iQXrM5g1laj9iuZQ-Mkw6JpJ1fNPAl?usp=sharing]
 
 
 --
@@ -83,9 +83,6 @@ Precio: $1800
 Descuento: 10%
 Stock: 3 unidades
 
-yaml
-Copiar
-Editar
 
 ---
 
@@ -98,9 +95,18 @@ Editar
 
 ---
 
+
+
+## Metodología de estudio
+La metodología que usamos fue grupal, aunque yo me encargué del desarrollo del buscador y parte de la documentación. El trabajo se dividió en una parte teórica, donde investigamos conceptos de búsqueda, ordenamiento y eficiencia algorítmica, y una parte práctica donde apliqué esos conceptos en Python usando la biblioteca tkinter. Consultamos bibliografía como Cormen y documentación oficial de Python. Elegí estos temas porque me parecieron los más aplicables al desarrollo real, como los filtros que usamos todos los días en apps. Fui documentando cada paso con ejemplos, justificaciones y pruebas funcionales.
+
+
+
+
 ## 🙌 Créditos
 
-Proyecto realizado por **Ana Sofía Zeballos**  
+Proyecto realizado por **Ana Sofía Zeballos, comisión 5**  ,  **Carlos Bruno Fernández Paolini, comisión 25**   
+
 Trabajo práctico de **Programación I - UTN TUPaD**  
 Tema: Aplicación de funciones, métodos y estructuras condicionales en Python con Tkinter.
 Eficiencia y Optimización de algoritmos 
